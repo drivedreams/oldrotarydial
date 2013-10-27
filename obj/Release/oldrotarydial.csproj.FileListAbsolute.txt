@@ -1,0 +1,15 @@
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\Bin\Release\oldrotarydial.dll
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\Bin\Release\oldrotarydial.pdb
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\Bin\Release\AppManifest.xaml
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\Bin\Release\oldrotarydial.xap
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\obj\Release\App.g.i.cs
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\obj\Release\about.g.i.cs
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\obj\Release\MainPage.g.i.cs
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\obj\Release\oldrotarydial.g.resources
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\obj\Release\oldrotarydial.dll
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\obj\Release\oldrotarydial.pdb
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\obj\Release\XapCacheFile.xml
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\obj\Release\oldrotarydial.csprojResolveAssemblyReference.cache
+E:\Windows phone\Projects\oldrotarydial\oldrotarydial\obj\Release\ContactView.g.i.cs

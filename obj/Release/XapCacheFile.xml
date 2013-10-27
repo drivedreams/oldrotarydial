@@ -1,0 +1,10 @@
+﻿<xapCache source="E:\Windows phone\Projects\oldrotarydial\oldrotarydial\Bin\Release\oldrotarydial.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2013/3/20 16:19:46">
+  <file source="E:\Windows phone\Projects\oldrotarydial\oldrotarydial\Bin\Release\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2013/3/11 23:23:35" />
+  <file source="E:\Windows phone\Projects\oldrotarydial\oldrotarydial\Background.png" archivePath="Background.png" lastWriteTime="2012/4/15 13:45:41" />
+  <file source="E:\Windows phone\Projects\oldrotarydial\oldrotarydial\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2012/4/15 13:13:11" />
+  <file source="E:\Windows phone\Projects\oldrotarydial\oldrotarydial\obj\Release\oldrotarydial.dll" archivePath="oldrotarydial.dll" lastWriteTime="2013/3/20 16:19:45" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="2011/8/29 22:49:08" />
+  <file source="E:\Windows phone\Projects\oldrotarydial\oldrotarydial\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="2010/11/2 15:36:16" />
+  <file source="E:\Windows phone\Projects\oldrotarydial\oldrotarydial\sounds\sound.wav" archivePath="sounds\sound.wav" lastWriteTime="2013/2/1 17:17:00" />
+  <file source="E:\Windows phone\Projects\oldrotarydial\oldrotarydial\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2013/3/20 0:11:34" />
+</xapCache>
